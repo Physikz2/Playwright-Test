@@ -666,6 +666,15 @@
         "ColumnName": "AdditionalDataBHP"
       },
       {
+        "ColumnName": "FootprintLength"
+      },
+      {
+        "ColumnName": "FootprintWidth"
+      },
+      {
+        "ColumnName": "FootprintHeight"
+      },
+      {
         "ColumnName": "IsArticulation",
         "DataType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
         "ExtendedProperties": {}
@@ -894,6 +903,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.42 hp",
+        "29.02 in",
+        "27.87 in",
+        "53.23 in",
         "0"
       ],
       [
@@ -1118,6 +1130,9 @@
         "UsualSearch",
         "1000 USgpm",
         "29.95 hp",
+        "30.59 in",
+        "27.87 in",
+        "51.97 in",
         "0"
       ],
       [
@@ -1342,6 +1357,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.17 hp",
+        "35.87 in",
+        "34.84 in",
+        "56.97 in",
         "0"
       ],
       [
@@ -1566,6 +1584,9 @@
         "UsualSearch",
         "1000 USgpm",
         "37.09 hp",
+        "42.01 in",
+        "29.25 in",
+        "54.65 in",
         "0"
       ],
       [
@@ -1790,6 +1811,9 @@
         "UsualSearch",
         "1000 USgpm",
         "35.76 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -2014,6 +2038,9 @@
         "UsualSearch",
         "1000 USgpm",
         "38.81 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -2238,6 +2265,9 @@
         "UsualSearch",
         "1000 USgpm",
         "28.8 hp",
+        "30.08 in",
+        "28.66 in",
+        "55.79 in",
         "0"
       ],
       [
@@ -2462,6 +2492,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.77 hp",
+        "33.31 in",
+        "27.24 in",
+        "51.77 in",
         "0"
       ],
       [
@@ -2686,6 +2719,9 @@
         "UsualSearch",
         "1000 USgpm",
         "49.04 hp",
+        "28.7 in",
+        "29.92 in",
+        "51.5 in",
         "0"
       ],
       [
@@ -2910,6 +2946,9 @@
         "UsualSearch",
         "1000 USgpm",
         "39.41 hp",
+        "42.09 in",
+        "34.76 in",
+        "59.06 in",
         "0"
       ],
       [
@@ -3134,6 +3173,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.2 hp",
+        "39.33 in",
+        "32.87 in",
+        "55.16 in",
         "0"
       ],
       [
@@ -3358,6 +3400,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.07 hp",
+        "39.33 in",
+        "32.87 in",
+        "55.16 in",
         "0"
       ],
       [
@@ -3582,6 +3627,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.3 hp",
+        "48.78 in",
+        "61.38 in",
+        "60.87 in",
         "0"
       ],
       [
@@ -3806,6 +3854,9 @@
         "UsualSearch",
         "1000 USgpm",
         "28.8 hp",
+        "35.67 in",
+        "34.45 in",
+        "58.58 in",
         "0"
       ],
       [
@@ -4030,6 +4081,9 @@
         "UsualSearch",
         "1000 USgpm",
         "53.63 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -4254,6 +4308,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.19 hp",
+        "39.49 in",
+        "29.8 in",
+        "55.2 in",
         "0"
       ],
       [
@@ -4478,6 +4535,9 @@
         "UsualSearch",
         "1000 USgpm",
         "47.97 hp",
+        "48.5 in",
+        "37.01 in",
+        "67.4 in",
         "0"
       ],
       [
@@ -4702,6 +4762,9 @@
         "UsualSearch",
         "1000 USgpm",
         "41.93 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -4926,6 +4989,9 @@
         "UsualSearch",
         "1000 USgpm",
         "72.07 hp",
+        "46.54 in",
+        "38.66 in",
+        "70.2 in",
         "0"
       ],
       [
@@ -5150,6 +5216,9 @@
         "UsualSearch",
         "1000 USgpm",
         "92.52 hp",
+        "65 in",
+        "43.5 in",
+        "80.08 in",
         "0"
       ],
       [
@@ -5374,6 +5443,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.66 hp",
+        "48.74 in",
+        "36.34 in",
+        "65.31 in",
         "0"
       ],
       [
@@ -5598,6 +5670,9 @@
         "UsualSearch",
         "1000 USgpm",
         "49.4 hp",
+        "52.01 in",
+        "39.96 in",
+        "70.67 in",
         "0"
       ],
       [
@@ -5822,6 +5897,9 @@
         "UsualSearch",
         "1000 USgpm",
         "80.37 hp",
+        "52.01 in",
+        "43.03 in",
+        "70.67 in",
         "0"
       ],
       [
@@ -6046,6 +6124,9 @@
         "UsualSearch",
         "1000 USgpm",
         "37.65 hp",
+        "36.42 in",
+        "39.65 in",
+        "51.57 in",
         "0"
       ],
       [
@@ -6270,6 +6351,9 @@
         "UsualSearch",
         "1000 USgpm",
         "44.22 hp",
+        "48.43 in",
+        "57.68 in",
+        "65.71 in",
         "0"
       ],
       [
@@ -6494,6 +6578,9 @@
         "UsualSearch",
         "1000 USgpm",
         "30.34 hp",
+        "35.31 in",
+        "26.61 in",
+        "53.62 in",
         "0"
       ],
       [
@@ -6718,6 +6805,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.2 hp",
+        "33.31 in",
+        "27.24 in",
+        "51.77 in",
         "0"
       ],
       [
@@ -6942,6 +7032,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.89 hp",
+        "30.94 in",
+        "24.8 in",
+        "47.32 in",
         "0"
       ],
       [
@@ -7166,6 +7259,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.2 hp",
+        "36.02 in",
+        "27.76 in",
+        "54.96 in",
         "0"
       ],
       [
@@ -7390,6 +7486,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.98 hp",
+        "36.02 in",
+        "27.76 in",
+        "54.96 in",
         "0"
       ],
       [
@@ -7614,6 +7713,9 @@
         "UsualSearch",
         "1000 USgpm",
         "37.17 hp",
+        "40.67 in",
+        "25.75 in",
+        "53.98 in",
         "0"
       ],
       [
@@ -7838,6 +7940,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.89 hp",
+        "33.74 in",
+        "27.6 in",
+        "53.27 in",
         "0"
       ],
       [
@@ -8062,6 +8167,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.78 hp",
+        "42.01 in",
+        "32.76 in",
+        "56.69 in",
         "0"
       ],
       [
@@ -8286,6 +8394,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.19 hp",
+        "37.99 in",
+        "28.31 in",
+        "53.9 in",
         "0"
       ],
       [
@@ -8510,6 +8621,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.07 hp",
+        "39.33 in",
+        "32.87 in",
+        "55.16 in",
         "0"
       ],
       [
@@ -8734,6 +8848,9 @@
         "UsualSearch",
         "1000 USgpm",
         "44.91 hp",
+        "46.97 in",
+        "33.82 in",
+        "60.55 in",
         "0"
       ],
       [
@@ -8958,6 +9075,9 @@
         "UsualSearch",
         "1000 USgpm",
         "38.04 hp",
+        "41.54 in",
+        "28.46 in",
+        "55.87 in",
         "0"
       ],
       [
@@ -9182,6 +9302,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.5 hp",
+        "42.01 in",
+        "34.96 in",
+        "58.74 in",
         "0"
       ],
       [
@@ -9406,6 +9529,9 @@
         "UsualSearch",
         "1000 USgpm",
         "42.38 hp",
+        "47.8 in",
+        "35.31 in",
+        "61.85 in",
         "0"
       ],
       [
@@ -9630,6 +9756,9 @@
         "UsualSearch",
         "1000 USgpm",
         "37.64 hp",
+        "42.32 in",
+        "29.02 in",
+        "56.61 in",
         "0"
       ],
       [
@@ -9854,6 +9983,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.5 hp",
+        "42.01 in",
+        "34.96 in",
+        "62.8 in",
         "0"
       ],
       [
@@ -10078,6 +10210,9 @@
         "UsualSearch",
         "1000 USgpm",
         "44.22 hp",
+        "48.5 in",
+        "36.02 in",
+        "65.24 in",
         "0"
       ]
     ]
@@ -10749,6 +10884,15 @@
         "ColumnName": "AdditionalDataBHP"
       },
       {
+        "ColumnName": "FootprintLength"
+      },
+      {
+        "ColumnName": "FootprintWidth"
+      },
+      {
+        "ColumnName": "FootprintHeight"
+      },
+      {
         "ColumnName": "IsArticulation",
         "DataType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
         "ExtendedProperties": {}
@@ -10977,6 +11121,9 @@
         "UsualSearch",
         "500 USgpm",
         "15.97 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -11201,6 +11348,9 @@
         "UsualSearch",
         "500 USgpm",
         "15.64 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -11425,6 +11575,9 @@
         "UsualSearch",
         "500 USgpm",
         "16.53 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -11649,6 +11802,9 @@
         "UsualSearch",
         "500 USgpm",
         "16.25 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -11873,6 +12029,9 @@
         "UsualSearch",
         "500 USgpm",
         "15.92 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -12097,6 +12256,9 @@
         "UsualSearch",
         "500 USgpm",
         "25.62 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -12321,6 +12483,9 @@
         "UsualSearch",
         "500 USgpm",
         "35.05 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -12545,6 +12710,9 @@
         "UsualSearch",
         "500 USgpm",
         "17.28 hp",
+        "",
+        "",
+        "",
         "0"
       ]
     ]
@@ -13216,6 +13384,15 @@
         "ColumnName": "AdditionalDataBHP"
       },
       {
+        "ColumnName": "FootprintLength"
+      },
+      {
+        "ColumnName": "FootprintWidth"
+      },
+      {
+        "ColumnName": "FootprintHeight"
+      },
+      {
         "ColumnName": "IsArticulation",
         "DataType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
         "ExtendedProperties": {}
@@ -13444,6 +13621,9 @@
         "UsualSearch",
         "500 USgpm",
         "16.21 hp",
+        "45.98 in",
+        "41.54 in",
+        "42.99 in",
         "0"
       ],
       [
@@ -13668,6 +13848,9 @@
         "UsualSearch",
         "500 USgpm",
         "19.42 hp",
+        "46.93 in",
+        "40.31 in",
+        "50.31 in",
         "0"
       ],
       [
@@ -13892,6 +14075,9 @@
         "UsualSearch",
         "500 USgpm",
         "18.72 hp",
+        "45.98 in",
+        "34.53 in",
+        "53.78 in",
         "0"
       ],
       [
@@ -14116,6 +14302,9 @@
         "UsualSearch",
         "500 USgpm",
         "17.4 hp",
+        "45.98 in",
+        "41.54 in",
+        "55.98 in",
         "0"
       ],
       [
@@ -14340,6 +14529,9 @@
         "UsualSearch",
         "500 USgpm",
         "17.04 hp",
+        "35.35 in",
+        "27.95 in",
+        "42.05 in",
         "0"
       ],
       [
@@ -14564,6 +14756,9 @@
         "UsualSearch",
         "500 USgpm",
         "16.58 hp",
+        "35.35 in",
+        "27.95 in",
+        "42.05 in",
         "0"
       ],
       [
@@ -14788,6 +14983,9 @@
         "UsualSearch",
         "500 USgpm",
         "20.21 hp",
+        "35.35 in",
+        "30.71 in",
+        "40.35 in",
         "0"
       ],
       [
@@ -15012,6 +15210,9 @@
         "UsualSearch",
         "500 USgpm",
         "20.02 hp",
+        "38.03 in",
+        "30.71 in",
+        "47.64 in",
         "0"
       ],
       [
@@ -15236,6 +15437,9 @@
         "UsualSearch",
         "500 USgpm",
         "20.04 hp",
+        "38.03 in",
+        "30.71 in",
+        "47.64 in",
         "0"
       ]
     ]
@@ -15907,6 +16111,15 @@
         "ColumnName": "AdditionalDataBHP"
       },
       {
+        "ColumnName": "FootprintLength"
+      },
+      {
+        "ColumnName": "FootprintWidth"
+      },
+      {
+        "ColumnName": "FootprintHeight"
+      },
+      {
         "ColumnName": "IsArticulation",
         "DataType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
         "ExtendedProperties": {}
@@ -16135,6 +16348,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.73 hp",
+        "47.95 in",
+        "22.91 in",
+        "33.58 in",
         "0"
       ],
       [
@@ -16359,6 +16575,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.45 hp",
+        "50.71 in",
+        "21.85 in",
+        "34.41 in",
         "0"
       ],
       [
@@ -16583,6 +16802,9 @@
         "UsualSearch",
         "1000 USgpm",
         "34.46 hp",
+        "57.99 in",
+        "21.85 in",
+        "31.65 in",
         "0"
       ],
       [
@@ -16807,6 +17029,9 @@
         "UsualSearch",
         "1000 USgpm",
         "29.5 hp",
+        "48.7 in",
+        "22.91 in",
+        "33.58 in",
         "0"
       ],
       [
@@ -17031,6 +17256,9 @@
         "UsualSearch",
         "1000 USgpm",
         "30.66 hp",
+        "57.99 in",
+        "21.85 in",
+        "33.43 in",
         "0"
       ],
       [
@@ -17255,6 +17483,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.24 hp",
+        "50.71 in",
+        "21.85 in",
+        "34.41 in",
         "0"
       ],
       [
@@ -17479,6 +17710,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.54 hp",
+        "57.99 in",
+        "21.85 in",
+        "35.47 in",
         "0"
       ],
       [
@@ -17703,6 +17937,9 @@
         "UsualSearch",
         "1000 USgpm",
         "34.95 hp",
+        "57.99 in",
+        "21.85 in",
+        "33.43 in",
         "0"
       ],
       [
@@ -17927,6 +18164,9 @@
         "UsualSearch",
         "1000 USgpm",
         "30.6 hp",
+        "65.98 in",
+        "26.85 in",
+        "38.94 in",
         "0"
       ],
       [
@@ -18151,6 +18391,9 @@
         "UsualSearch",
         "1000 USgpm",
         "33.04 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -18375,6 +18618,9 @@
         "UsualSearch",
         "1000 USgpm",
         "35.92 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -18599,6 +18845,9 @@
         "UsualSearch",
         "1000 USgpm",
         "28.8 hp",
+        "54.13 in",
+        "22.87 in",
+        "35.28 in",
         "0"
       ],
       [
@@ -18823,6 +19072,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.73 hp",
+        "52.2 in",
+        "21.85 in",
+        "36.97 in",
         "0"
       ],
       [
@@ -19047,6 +19299,9 @@
         "UsualSearch",
         "1000 USgpm",
         "31.67 hp",
+        "52.2 in",
+        "21.85 in",
+        "36.97 in",
         "0"
       ],
       [
@@ -19271,6 +19526,9 @@
         "UsualSearch",
         "1000 USgpm",
         "39.41 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -19495,6 +19753,9 @@
         "UsualSearch",
         "1000 USgpm",
         "40.2 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -19719,6 +19980,9 @@
         "UsualSearch",
         "1000 USgpm",
         "41.56 hp",
+        "65.98 in",
+        "26.85 in",
+        "41.5 in",
         "0"
       ],
       [
@@ -19943,6 +20207,9 @@
         "UsualSearch",
         "1000 USgpm",
         "28.8 hp",
+        "",
+        "",
+        "",
         "0"
       ],
       [
@@ -20167,6 +20434,9 @@
         "UsualSearch",
         "1000 USgpm",
         "32.14 hp",
+        "57.99 in",
+        "24.76 in",
+        "40.55 in",
         "0"
       ],
       [
@@ -20391,6 +20661,9 @@
         "UsualSearch",
         "1000 USgpm",
         "42.01 hp",
+        "65.98 in",
+        "27.76 in",
+        "43.46 in",
         "0"
       ],
       [
@@ -20615,6 +20888,9 @@
         "UsualSearch",
         "1000 USgpm",
         "30.61 hp",
+        "70 in",
+        "29.84 in",
+        "44.45 in",
         "0"
       ]
     ]
